@@ -4,7 +4,7 @@ import { FaSquareXTwitter,FaSquareGithub, FaSquareWhatsapp } from "react-icons/f
 
 function Footer(){
     return (
-        <div>
+        <div className="footer">
             <a href=""><FaSquareXTwitter/></a>
             <a href=""><BsLinkedin/></a>
             <a href=""><FaSquareGithub/></a>
